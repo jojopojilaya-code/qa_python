@@ -6,7 +6,7 @@
 
 
 
-Автор: POJILAYA\_GIDRA
+Автор: POJILAYA_GIDRA
 
 
 
